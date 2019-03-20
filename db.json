@@ -1,31 +1,40 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+ 	"Employees": [
+   		{
+		"id": 1,
+		"title": "RTOS engineer",
+		"name": "Sais hekhar" 
+		},
+		{
+		"id": 2,
+		"title": "Klondike enginner",
+		"name": "Srikanya" 
+		},
+   		{
+		"id": 3,
+		"title": "Web-server engineer",
+		"name": "Hemanth" 
+		},
+   		{
+		"id": 4,
+		"title": "json-server engineer",
+		"name": "Sathya Krishna" 
+		},
+   		{
+		"id": 5,
+		"title": "JDGUI engineer ",
+		"name": "Sriram" 
+		},
+   		{
+		"id": 6,
+		"title": "Android dev",
+		"name": "Sharan" 
+		},
+   		{
+		"id": 7,
+		"title": "Blaster engineer",
+		"name": "Mounika" 
+		}
+  	],
+	"organisation": {"name": "Delta Things Pvt. Ltd."}
 }
